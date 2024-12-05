@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\172.16.98.1\\аудитория216\\ИСП-8\\МДК 13.01\\лобышев исп-8 4 вариант\\ProductCatalogApp\\ProductCatalogApp.csproj": {}
+  },
+  "projects": {
+    "\\\\172.16.98.1\\аудитория216\\ИСП-8\\МДК 13.01\\лобышев исп-8 4 вариант\\ProductCatalogApp\\ProductCatalogApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\172.16.98.1\\аудитория216\\ИСП-8\\МДК 13.01\\лобышев исп-8 4 вариант\\ProductCatalogApp\\ProductCatalogApp.csproj",
+        "projectName": "ProductCatalogApp",
+        "projectPath": "\\\\172.16.98.1\\аудитория216\\ИСП-8\\МДК 13.01\\лобышев исп-8 4 вариант\\ProductCatalogApp\\ProductCatalogApp.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "\\\\172.16.98.1\\аудитория216\\ИСП-8\\МДК 13.01\\лобышев исп-8 4 вариант\\ProductCatalogApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

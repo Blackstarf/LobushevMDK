@@ -1,0 +1,42 @@
+C:\Users\Student\Downloads\ProductCatalogApp_Updated_With_Products\bin\Debug\net6.0-windows\ProductCatalogApp.exe
+C:\Users\Student\Downloads\ProductCatalogApp_Updated_With_Products\bin\Debug\net6.0-windows\ProductCatalogApp.deps.json
+C:\Users\Student\Downloads\ProductCatalogApp_Updated_With_Products\bin\Debug\net6.0-windows\ProductCatalogApp.runtimeconfig.json
+C:\Users\Student\Downloads\ProductCatalogApp_Updated_With_Products\bin\Debug\net6.0-windows\ProductCatalogApp.dll
+C:\Users\Student\Downloads\ProductCatalogApp_Updated_With_Products\bin\Debug\net6.0-windows\ProductCatalogApp.pdb
+C:\Users\Student\Downloads\ProductCatalogApp_Updated_With_Products\obj\Debug\net6.0-windows\ProductCatalogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\ProductCatalogApp_Updated_With_Products\obj\Debug\net6.0-windows\ProductCatalogApp.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\ProductCatalogApp_Updated_With_Products\obj\Debug\net6.0-windows\ProductCatalogApp.AssemblyInfo.cs
+C:\Users\Student\Downloads\ProductCatalogApp_Updated_With_Products\obj\Debug\net6.0-windows\ProductCatalogApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\ProductCatalogApp_Updated_With_Products\obj\Debug\net6.0-windows\ProductCatalogApp.dll
+C:\Users\Student\Downloads\ProductCatalogApp_Updated_With_Products\obj\Debug\net6.0-windows\refint\ProductCatalogApp.dll
+C:\Users\Student\Downloads\ProductCatalogApp_Updated_With_Products\obj\Debug\net6.0-windows\ProductCatalogApp.pdb
+C:\Users\Student\Downloads\ProductCatalogApp_Updated_With_Products\obj\Debug\net6.0-windows\ProductCatalogApp.genruntimeconfig.cache
+C:\Users\Student\Downloads\ProductCatalogApp_Updated_With_Products\obj\Debug\net6.0-windows\ref\ProductCatalogApp.dll
+C:\Users\Student\Desktop\лобышев исп-8 4 вариант\ProductCatalogApp\bin\Debug\net6.0-windows\ProductCatalogApp.exe
+C:\Users\Student\Desktop\лобышев исп-8 4 вариант\ProductCatalogApp\bin\Debug\net6.0-windows\ProductCatalogApp.deps.json
+C:\Users\Student\Desktop\лобышев исп-8 4 вариант\ProductCatalogApp\bin\Debug\net6.0-windows\ProductCatalogApp.runtimeconfig.json
+C:\Users\Student\Desktop\лобышев исп-8 4 вариант\ProductCatalogApp\bin\Debug\net6.0-windows\ProductCatalogApp.dll
+C:\Users\Student\Desktop\лобышев исп-8 4 вариант\ProductCatalogApp\bin\Debug\net6.0-windows\ProductCatalogApp.pdb
+C:\Users\Student\Desktop\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\ProductCatalogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\ProductCatalogApp.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\ProductCatalogApp.AssemblyInfo.cs
+C:\Users\Student\Desktop\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\ProductCatalogApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\ProductCatalogApp.dll
+C:\Users\Student\Desktop\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\refint\ProductCatalogApp.dll
+C:\Users\Student\Desktop\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\ProductCatalogApp.pdb
+C:\Users\Student\Desktop\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\ProductCatalogApp.genruntimeconfig.cache
+C:\Users\Student\Desktop\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\ref\ProductCatalogApp.dll
+\\172.16.98.1\аудитория216\ИСП-8\МДК 13.01\лобышев исп-8 4 вариант\ProductCatalogApp\bin\Debug\net6.0-windows\ProductCatalogApp.exe
+\\172.16.98.1\аудитория216\ИСП-8\МДК 13.01\лобышев исп-8 4 вариант\ProductCatalogApp\bin\Debug\net6.0-windows\ProductCatalogApp.deps.json
+\\172.16.98.1\аудитория216\ИСП-8\МДК 13.01\лобышев исп-8 4 вариант\ProductCatalogApp\bin\Debug\net6.0-windows\ProductCatalogApp.runtimeconfig.json
+\\172.16.98.1\аудитория216\ИСП-8\МДК 13.01\лобышев исп-8 4 вариант\ProductCatalogApp\bin\Debug\net6.0-windows\ProductCatalogApp.dll
+\\172.16.98.1\аудитория216\ИСП-8\МДК 13.01\лобышев исп-8 4 вариант\ProductCatalogApp\bin\Debug\net6.0-windows\ProductCatalogApp.pdb
+\\172.16.98.1\аудитория216\ИСП-8\МДК 13.01\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\ProductCatalogApp.GeneratedMSBuildEditorConfig.editorconfig
+\\172.16.98.1\аудитория216\ИСП-8\МДК 13.01\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\ProductCatalogApp.AssemblyInfoInputs.cache
+\\172.16.98.1\аудитория216\ИСП-8\МДК 13.01\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\ProductCatalogApp.AssemblyInfo.cs
+\\172.16.98.1\аудитория216\ИСП-8\МДК 13.01\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\ProductCatalogApp.csproj.CoreCompileInputs.cache
+\\172.16.98.1\аудитория216\ИСП-8\МДК 13.01\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\ProductCatalogApp.dll
+\\172.16.98.1\аудитория216\ИСП-8\МДК 13.01\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\refint\ProductCatalogApp.dll
+\\172.16.98.1\аудитория216\ИСП-8\МДК 13.01\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\ProductCatalogApp.pdb
+\\172.16.98.1\аудитория216\ИСП-8\МДК 13.01\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\ProductCatalogApp.genruntimeconfig.cache
+\\172.16.98.1\аудитория216\ИСП-8\МДК 13.01\лобышев исп-8 4 вариант\ProductCatalogApp\obj\Debug\net6.0-windows\ref\ProductCatalogApp.dll
